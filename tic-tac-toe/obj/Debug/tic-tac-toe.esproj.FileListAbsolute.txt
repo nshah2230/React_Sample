@@ -1,0 +1,1 @@
+C:\Test_Applications\TestApp_React\Tic-Tac-Toe\obj\Debug\tic-tac-toe.esproj.CoreCompileInputs.cache
